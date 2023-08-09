@@ -8,5 +8,3 @@
    - **/Composer**: Implementation with the framework Hyperledger Composer
    - **/Fabric**: Implementation with an Hyperledger Fabric network
    
-## Further information
-Please visit the [Wiki page](https://github.com/PDfork/blockchainPG/wiki) for further information about the project and how to run the applications.
